@@ -10,7 +10,9 @@ Plays and scrobbles songs broadcast by your favourite Internet radio stations th
 ## Requirements
   
   Python3
+  
   Last.fm account + API Key & API Secret
+  
   Radio player URL
   
   API Key & Secret can be requested here: https://www.last.fm/api/account/create
