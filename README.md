@@ -19,6 +19,6 @@ Plays and scrobbles songs broadcast by your favourite Internet radio stations th
   
 ## How to use it?
 
-  Simply change `url, API_KEY, API_SECRET, username` and `password_hash` argument value to your Last.fm account password and run the script with `python3 RadioScrobbler.py`
+  Simply change `url, API_KEY, API_SECRET, username`variables and `password_hash` argument value and run the script with `python3 RadioScrobbler.py`
   
   
